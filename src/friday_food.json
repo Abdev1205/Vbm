@@ -1,0 +1,213 @@
+[
+    {
+        "Srno": 0,
+        "Day": "Friday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Uthappam",
+        "Meal_mix_with": "with Coconut Chutney ",
+        "Meal_Image_URL": "img/uthappam.jpg",
+        "Meal_style": "South Indian"
+    },
+    {
+        "Srno": 1,
+        "Day": "Friday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Bread",
+        "Meal_mix_with": "with Butter | Jam",
+        "Meal_Image_URL": "img/bread.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 2,
+        "Day": "Friday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Milk",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/milk.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 3,
+        "Day": "Friday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Tea",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/tea.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 4,
+        "Day": "Friday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Coffee",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/coffee.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 5,
+        "Day": "Friday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Fruit Salad",
+        "Meal_Image_URL": "img/fruit-salad.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 6,
+        "Day": "Friday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Banana",
+        "Meal_Image_URL": "img/banana.jpg",
+        "Meal_style": "common"
+    },
+    
+    {
+        "Srno": 7,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Plain Biryani",
+        
+        "Meal_Image_URL": "img/plain-biryani.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 8,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Veg Aviyal",
+        
+        "Meal_Image_URL": "img/veg-aviyal.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 9,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Chapathi",
+        "Meal_Image_URL": "img/chapati.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 10,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Rajama Masala",
+        "Meal_Image_URL": "img/rajma-masala.png",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 11,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Onion Raita",
+        
+        "Meal_Image_URL": "img/onion-raita.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 12,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Brinjal Kuzambhu",
+        "Meal_Image_URL": "img/brinjal-kuzambhu.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 13,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Plain rice",
+        "Meal_Image_URL": "img/plain-rice.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 13,
+        "Day": "Friday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Fryums",
+        "Meal_Image_URL": "img/fryums.jpg",
+        "Meal_style": "common"
+    },
+    
+    {
+        "Srno": 14,
+        "Day": "Friday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Dhokla",
+        "Meal_mix_with": "with chutney",
+        "Meal_Image_URL": "img/dhokla.jpg",
+        "Meal_style": "common"
+    },
+    
+    {
+        "Srno": 15,
+        "Day": "Friday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Milk",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/milk.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 16,
+        "Day": "Friday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Tea",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/tea.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 17,
+        "Day": "Friday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Coffee",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/coffee.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 18,
+        "Day": "Friday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Panner Do Pyaza",
+        
+        "Meal_Image_URL": "img/paneer-do-pyaza.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 19,
+        "Day": "Friday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Chicken Curry",
+        "Meal_mix_with": "for Non-vegetaraian",
+        "Meal_Image_URL": "img/chicken-curry.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 20,
+        "Day": "Friday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Rice",
+        
+        "Meal_Image_URL": "img/plain-rice.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 21,
+        "Day": "Friday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Chapathi",
+        "Meal_Image_URL": "img/chapati.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 22,
+        "Day": "Friday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Dal Tadka",
+        "Meal_Image_URL": "img/dal-tadka.jpg",
+        "Meal_style": "Everyones Favourite"
+    }
+    
+]

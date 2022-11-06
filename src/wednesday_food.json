@@ -1,0 +1,250 @@
+[
+    {
+        "Srno": 0,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Pav Bhaji",
+        "Meal_mix_with": "on alternate week",
+        "Meal_Image_URL": "img/pav-bhaji.jpg",
+        "Meal_style": "North Indian"
+    },
+    {
+        "Srno": 1,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Upma",
+        "Meal_mix_with": "on alternate week",
+        "Meal_Image_URL": "img/upma.jpg",
+        "Meal_style": "South Indian"
+    },
+    {
+        "Srno": 2,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Bread",
+        "Meal_mix_with": "with Butter | Jam",
+        "Meal_Image_URL": "img/bread.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 3,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Milk",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/milk.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 4,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Tea",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/tea.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 5,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Coffee",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/coffee.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 6,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Fruit Salad",
+        "Meal_Image_URL": "img/fruit-salad.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 7,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Banana",
+        "Meal_Image_URL": "img/banana.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 8,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Sprouts",
+        "Meal_mix_with": "for vegetaraian",
+        "Meal_Image_URL": "img/sprouts.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 9,
+        "Day": "Wednesday",
+        "Meal_type": "Breakfast",
+        "Meal_Name": "Boiled Egg",
+        "Meal_mix_with": "for Non-vegetaraian",
+        "Meal_Image_URL": "img/boiled-egg.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 10,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Veg Kofta",
+        
+        "Meal_Image_URL": "img/veg-kofta.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 11,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Vegetable Sambhar",
+        
+        "Meal_Image_URL": "img/veg-sambhar.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 12,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Chapathi",
+        "Meal_Image_URL": "img/chapati.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 13,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Jeera Rice",
+        "Meal_Image_URL": "img/jeera-rice.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 14,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Dal Tadka",
+        
+        "Meal_Image_URL": "img/dal-tadka.jpg",
+        "Meal_style": "Gujarati"
+    },
+    {
+        "Srno": 15,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Salad",
+        "Meal_Image_URL": "img/salad.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 16,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Rasam",
+        "Meal_Image_URL": "img/rasam.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 17,
+        "Day": "Wednesday",
+        "Meal_type": "Lunch",
+        "Meal_Name": "Fryums",
+        "Meal_Image_URL": "img/fryums.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 18,
+        "Day": "Wednesday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Samosa",
+        "Meal_mix_with": "on alternate week",
+        "Meal_Image_URL": "img/samosa.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 19,
+        "Day": "Wednesday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Kachodi",
+        "Meal_mix_with": "on alternate week",
+        "Meal_Image_URL": "img/kachodi.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 20,
+        "Day": "Wednesday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Milk",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/milk.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 21,
+        "Day": "Wednesday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Tea",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/tea.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 22,
+        "Day": "Wednesday",
+        "Meal_type": "Snacks",
+        "Meal_Name": "Coffee",
+        "Meal_mix_with": "with sugar",
+        "Meal_Image_URL": "img/coffee.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 23,
+        "Day": "Wednesday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Kadai Paneer",
+        "Meal_Image_URL": "img/kadai-paneer.jpg",
+        "Meal_style": "common"},
+    {
+        "Srno": 24,
+        "Day": "Wednesday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Chicken Curry",
+        "Meal_mix_with": "for Non-vegetaraian",
+        "Meal_Image_URL": "img/chicken-curry.webp",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 25,
+        "Day": "Wednesday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Chapathi",
+        "Meal_Image_URL": "img/chapati.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 26,
+        "Day": "Wednesday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Hot soup",
+        "Meal_Image_URL": "img/hot-soup.jpg",
+        "Meal_style": "Chinese"
+    },
+    {
+        "Srno": 27,
+        "Day": "Wednesday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Rice",
+        "Meal_Image_URL": "img/jeera-rice.jpg",
+        "Meal_style": "common"
+    },
+    {
+        "Srno": 28,
+        "Day": "Wednesday",
+        "Meal_type": "Dinner",
+        "Meal_Name": "Plain Dal",
+        "Meal_Image_URL": "img/plain-dal.jpg",
+        "Meal_style": "common"
+    }
+]
